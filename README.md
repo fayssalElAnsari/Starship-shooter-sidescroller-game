@@ -61,4 +61,4 @@ sinon ouvrir le fichier index.html
 * Fayssal EL ANSARI
 
 # License
-* 
+* GNU General Public License v3.0
