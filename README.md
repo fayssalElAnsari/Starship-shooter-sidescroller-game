@@ -27,7 +27,7 @@ C'est un jeu vidéo simple dans lequel le joueur contrôle à l'aide du clavier 
 ## installation
 * récupérer le dépôt avec:
  ```bash
- $  git clone https://github.com/fayssalElAnsari/ToDo-List-with-Priority-Time-and-Status.git
+ $  git clone https://github.com/fayssalElAnsari/Starship-shooter-sidescroller-game.git
  ```
  * installer les paquets *Node.js* :
   ```bash
